@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSilverMauiCalculator.Browser", "OpenSilverMauiCalculator\OpenSilverMauiCalculator.Browser\OpenSilverMauiCalculator.Browser.csproj", "{8D389F42-37CD-4BC3-AD91-FDD00E50C02D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSilverMauiCalculator", "OpenSilverMauiCalculator\OpenSilverMauiCalculator\OpenSilverMauiCalculator.csproj", "{598948BC-FD4C-44F5-853C-E247D1CF669A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSilverMauiCalculator.Simulator", "OpenSilverMauiCalculator\OpenSilverMauiCalculator.Simulator\OpenSilverMauiCalculator.Simulator.csproj", "{F32C3133-E384-486F-85E2-45FE14B76402}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSilver.Maui", "OpenSilver.Maui\OpenSilver.Maui.csproj", "{E7889FAB-3809-4EE8-BDB1-0E3D04203208}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D389F42-37CD-4BC3-AD91-FDD00E50C02D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D389F42-37CD-4BC3-AD91-FDD00E50C02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D389F42-37CD-4BC3-AD91-FDD00E50C02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D389F42-37CD-4BC3-AD91-FDD00E50C02D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{598948BC-FD4C-44F5-853C-E247D1CF669A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{598948BC-FD4C-44F5-853C-E247D1CF669A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{598948BC-FD4C-44F5-853C-E247D1CF669A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{598948BC-FD4C-44F5-853C-E247D1CF669A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F32C3133-E384-486F-85E2-45FE14B76402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32C3133-E384-486F-85E2-45FE14B76402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32C3133-E384-486F-85E2-45FE14B76402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32C3133-E384-486F-85E2-45FE14B76402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7889FAB-3809-4EE8-BDB1-0E3D04203208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7889FAB-3809-4EE8-BDB1-0E3D04203208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7889FAB-3809-4EE8-BDB1-0E3D04203208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7889FAB-3809-4EE8-BDB1-0E3D04203208}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1D53CBA-758E-45B9-9087-11623C838F2C}
+	EndGlobalSection
+EndGlobal

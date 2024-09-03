@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <EnableDefaultItems>false</EnableDefaultItems>
+    <DefineSilverlight>true</DefineSilverlight>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OpenSilver" Version="3.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Microsoft.Maui.Controls\Application.cs" />
+    <Compile Include="Microsoft.Maui.Controls\Button.cs" />
+    <Compile Include="Microsoft.Maui.Controls\ColumnDefinition.cs" />
+    <Compile Include="Microsoft.Maui.Controls\ContentPage.cs" />
+    <Compile Include="Microsoft.Maui.Controls\Grid.cs" />
+    <Compile Include="Microsoft.Maui.Controls\Label.cs" />
+    <Compile Include="Microsoft.Maui.Controls\ResourceDictionary.cs" />
+    <Compile Include="Microsoft.Maui.Controls\RowDefinition.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+
+</Project>
